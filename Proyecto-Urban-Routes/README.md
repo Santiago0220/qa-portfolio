@@ -1,22 +1,24 @@
 # Proyecto de Testing – Urban Routes
 
 ## Contexto del proyecto
-Urban Routes es una aplicación utilizada para planificar rutas dentro de una ciudad. En este proyecto se realizaron pruebas manuales para analizar el funcionamiento de diferentes partes de la aplicación y detectar posibles errores.
+Urban Routes es una aplicación utilizada para planificar rutas dentro de una ciudad. Este proyecto fue realizado durante mi formación como QA Engineer en el bootcamp.
 
 ## Objetivo
-El objetivo de las pruebas fue verificar que las funciones principales de la aplicación funcionaran correctamente y detectar posibles fallos que pudieran afectar la experiencia del usuario.
+El objetivo de las pruebas fue verificar que las funcionalidades principales de la aplicación funcionaran correctamente y detectar posibles errores que afectaran la experiencia del usuario.
 
-## Tipos de pruebas realizadas
+## Actividades realizadas
+Durante el proyecto realicé:
 
-Durante este proyecto se realizaron:
-
-- Pruebas funcionales
-- Pruebas exploratorias
 - Diseño de casos de prueba
-- Reporte de bugs
+- Pruebas manuales
+- Pruebas exploratorias
+- Identificación y documentación de bugs
 
 ## Herramientas utilizadas
 
 - Jira
 - Chrome DevTools
 - Postman
+
+## Resultados
+Durante las pruebas se identificaron diferentes errores y comportamientos inesperados en la aplicación, los cuales fueron documentados correctamente.
